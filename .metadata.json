@@ -1,0 +1,14 @@
+[
+  {
+    "package": "archivist",
+    "oncran": true
+  },
+  {
+    "package": "breakDown",
+    "oncran": true
+  },
+  {
+    "package": "ceterisParibus",
+    "oncran": true
+  }
+]

@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "archivist"]
+	path = archivist
+	url = https://github.com/pbiecek/archivist
+	shallow = true
+	registered = true
+[submodule "breakDown"]
+	path = breakDown
+	url = https://github.com/pbiecek/breakdown
+	shallow = true
+	registered = true
+[submodule "ceterisParibus"]
+	path = ceterisParibus
+	url = https://github.com/pbiecek/ceterisparibus
+	shallow = true
+	registered = true
