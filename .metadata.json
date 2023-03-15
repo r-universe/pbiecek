@@ -4,11 +4,63 @@
     "oncran": true
   },
   {
+    "package": "archivist",
+    "oncran": true
+  },
+  {
+    "package": "bgmm",
+    "oncran": true
+  },
+  {
+    "package": "bgmm",
+    "oncran": true
+  },
+  {
+    "package": "breakDown",
+    "oncran": true
+  },
+  {
     "package": "breakDown",
     "oncran": true
   },
   {
     "package": "ceterisParibus",
+    "oncran": true
+  },
+  {
+    "package": "ceterisParibus",
+    "oncran": true
+  },
+  {
+    "package": "ddst",
+    "oncran": true
+  },
+  {
+    "package": "ddst",
+    "oncran": true
+  },
+  {
+    "package": "PBImisc",
+    "oncran": true
+  },
+  {
+    "package": "PBImisc",
+    "oncran": true
+  },
+  {
+    "package": "PogromcyDanych",
+    "oncran": true
+  },
+  {
+    "package": "PogromcyDanych",
+    "oncran": true
+  },
+  {
+    "package": "SmarterPoland",
+    "oncran": true
+  },
+  {
+    "package": "SmarterPoland",
     "oncran": true
   }
 ]

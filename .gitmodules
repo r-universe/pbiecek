@@ -8,6 +8,11 @@
 	url = https://github.com/pbiecek/archivist
 	shallow = true
 	registered = true
+[submodule "bgmm"]
+	path = bgmm
+	url = https://github.com/pbiecek/bgmm
+	shallow = true
+	registered = true
 [submodule "breakDown"]
 	path = breakDown
 	url = https://github.com/pbiecek/breakdown
@@ -16,5 +21,25 @@
 [submodule "ceterisParibus"]
 	path = ceterisParibus
 	url = https://github.com/pbiecek/ceterisparibus
+	shallow = true
+	registered = true
+[submodule "ddst"]
+	path = ddst
+	url = https://github.com/pbiecek/ddst
+	shallow = true
+	registered = true
+[submodule "PBImisc"]
+	path = PBImisc
+	url = https://github.com/pbiecek/pbimisc
+	shallow = true
+	registered = true
+[submodule "PogromcyDanych"]
+	path = PogromcyDanych
+	url = https://github.com/pbiecek/pogromcydanych
+	shallow = true
+	registered = true
+[submodule "SmarterPoland"]
+	path = SmarterPoland
+	url = https://github.com/pbiecek/smarterpoland
 	shallow = true
 	registered = true
