@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "ceterisParibus",
+    "package": "breakDown",
     "oncran": true
   },
   {
-    "package": "breakDown",
+    "package": "ceterisParibus",
     "oncran": true
   }
 ]
