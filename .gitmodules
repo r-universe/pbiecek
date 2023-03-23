@@ -38,6 +38,16 @@
 	url = https://github.com/pbiecek/pogromcydanych
 	shallow = true
 	registered = true
+[submodule "proton"]
+	path = proton
+	url = https://github.com/cran/proton
+	shallow = true
+	registered = true
+[submodule "Przewodnik"]
+	path = Przewodnik
+	url = https://github.com/cran/Przewodnik
+	shallow = true
+	registered = true
 [submodule "SmarterPoland"]
 	path = SmarterPoland
 	url = https://github.com/pbiecek/smarterpoland
