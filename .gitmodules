@@ -1,55 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "archivist"]
 	path = archivist
 	url = https://github.com/pbiecek/archivist
-	shallow = true
-	registered = true
 [submodule "bgmm"]
 	path = bgmm
 	url = https://github.com/pbiecek/bgmm
-	shallow = true
-	registered = true
 [submodule "breakDown"]
 	path = breakDown
 	url = https://github.com/pbiecek/breakdown
-	shallow = true
-	registered = true
 [submodule "ceterisParibus"]
 	path = ceterisParibus
 	url = https://github.com/pbiecek/ceterisparibus
-	shallow = true
-	registered = true
 [submodule "ddst"]
 	path = ddst
 	url = https://github.com/pbiecek/ddst
-	shallow = true
-	registered = true
 [submodule "PBImisc"]
 	path = PBImisc
 	url = https://github.com/pbiecek/pbimisc
-	shallow = true
-	registered = true
 [submodule "PogromcyDanych"]
 	path = PogromcyDanych
 	url = https://github.com/pbiecek/pogromcydanych
-	shallow = true
-	registered = true
 [submodule "proton"]
 	path = proton
 	url = https://github.com/cran/proton
-	shallow = true
-	registered = true
 [submodule "Przewodnik"]
 	path = Przewodnik
 	url = https://github.com/cran/Przewodnik
-	shallow = true
-	registered = true
 [submodule "SmarterPoland"]
 	path = SmarterPoland
 	url = https://github.com/pbiecek/smarterpoland
-	shallow = true
-	registered = true
