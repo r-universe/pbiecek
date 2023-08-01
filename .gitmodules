@@ -2,6 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "PBImisc"]
+	path = PBImisc
+	url = https://github.com/pbiecek/pbimisc
+[submodule "PogromcyDanych"]
+	path = PogromcyDanych
+	url = https://github.com/pbiecek/pogromcydanych
+[submodule "Przewodnik"]
+	path = Przewodnik
+	url = https://github.com/cran/Przewodnik
+[submodule "SmarterPoland"]
+	path = SmarterPoland
+	url = https://github.com/pbiecek/smarterpoland
 [submodule "archivist"]
 	path = archivist
 	url = https://github.com/pbiecek/archivist
@@ -17,18 +29,6 @@
 [submodule "ddst"]
 	path = ddst
 	url = https://github.com/pbiecek/ddst
-[submodule "PBImisc"]
-	path = PBImisc
-	url = https://github.com/pbiecek/pbimisc
-[submodule "PogromcyDanych"]
-	path = PogromcyDanych
-	url = https://github.com/pbiecek/pogromcydanych
 [submodule "proton"]
 	path = proton
 	url = https://github.com/cran/proton
-[submodule "Przewodnik"]
-	path = Przewodnik
-	url = https://github.com/cran/Przewodnik
-[submodule "SmarterPoland"]
-	path = SmarterPoland
-	url = https://github.com/pbiecek/smarterpoland
