@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BetaBit"]
+	path = BetaBit
+	url = https://github.com/cran/BetaBit
 [submodule "PBImisc"]
 	path = PBImisc
 	url = https://github.com/pbiecek/pbimisc
