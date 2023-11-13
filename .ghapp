@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["archivist", "bgmm", "breakDown", "ceterisParibus", "ddst", "PogromcyDanych", "SmarterPoland"]
+  "repositories": ["ddst", "bgmm", "SmarterPoland", "archivist", "PogromcyDanych", "breakDown", "ceterisParibus"]
 }
