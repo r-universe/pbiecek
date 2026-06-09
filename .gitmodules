@@ -20,9 +20,6 @@
 [submodule "archivist"]
 	path = archivist
 	url = https://github.com/pbiecek/archivist
-[submodule "bgmm"]
-	path = bgmm
-	url = https://github.com/pbiecek/bgmm
 [submodule "breakDown"]
 	path = breakDown
 	url = https://github.com/pbiecek/breakdown
